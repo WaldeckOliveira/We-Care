@@ -6,4 +6,4 @@
 também ousei um pouco mais além das aulas, apliquei imagens em formato SVG, utilizando display-flex e deixando também o projeto responsivo, configurado para aparelhos Mobile.</p>
 <br>
 <br>
-<img src=""/>
+<img src="https://github.com/WaldeckOliveira/We-Care/blob/main/assets/Projeto%20DevClub%20We%20Care%20(1).png?raw=true"/>
